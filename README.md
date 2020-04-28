@@ -9,20 +9,20 @@ I've used proxy.conf.js to connect to Tomcat server running at 8082 port from ex
 
 ## Home page will look like below - 
 
-![image](https://user-images.githubusercontent.com/29896984/80439086-5750df80-8923-11ea-82f7-bdbae4120285.png)
+![image](https://user-images.githubusercontent.com/29896984/80444391-4b6b1a80-892f-11ea-81e5-bb9d52be041e.png)
 
 ## Add Book - 
 
-![image](https://user-images.githubusercontent.com/29896984/80439374-068db680-8924-11ea-9eb6-ca05470bde39.png)
+![image](https://user-images.githubusercontent.com/29896984/80443813-b7e51a00-892d-11ea-96bc-0562ab516683.png)
 
 ## List Books -
 
-![image](https://user-images.githubusercontent.com/29896984/80439559-6f752e80-8924-11ea-9eee-92731e6a25fe.png)
+![image](https://user-images.githubusercontent.com/29896984/80441467-959ccd80-8928-11ea-867e-dd8c55c03011.png)
 
 ## Edit Book -
 
 Click on edit(pencil) icon and edit the information. On Submit it routes back to List page
-![image](https://user-images.githubusercontent.com/29896984/80439678-b06d4300-8924-11ea-895d-463b29d42610.png)
+![image](https://user-images.githubusercontent.com/29896984/80441378-77cf6880-8928-11ea-8bbe-66d3a69e3752.png)
 
 ## Code scaffolding
 

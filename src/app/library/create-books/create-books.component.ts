@@ -34,5 +34,6 @@ export class CreateBooksComponent implements OnInit{
  
   gotoBookList() {
     this.router.navigate(['/books']);
+    this.bookService.isEditClicked(false,this.book);
   }
 }
